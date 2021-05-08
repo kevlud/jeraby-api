@@ -38,7 +38,7 @@
     "terminal-kit": "^1.31.6",
     "ts-node-dev": "^1.0.0-pre.43",
     "ts-transformer-keys": "^0.4.0",
-    "typeorm": "^0.2.19",
+    "typeorm": "^0.2.25",
     "xlsx": "^0.15.1"
   },
   "devDependencies": {
